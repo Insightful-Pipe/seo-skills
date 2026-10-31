@@ -1,0 +1,21 @@
+{
+  "name": "insightfulpipe-seo",
+  "displayName": "InsightfulPipe SEO Skills",
+  "description": "38 free Claude skills for SEO and Google Search Console: site audits, keyword research, cannibalization, striking-distance keywords, content briefs, content decay, internal links, schema and AI search visibility.",
+  "version": "2026.10.3107",
+  "author": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "homepage": "https://insightfulpipe.com/marketing-claude-skills/seo",
+  "repository": "https://github.com/Insightful-Pipe/seo-skills",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "search-console",
+    "keyword-research",
+    "technical-seo",
+    "claude-skills",
+    "marketing"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "insightfulpipe-seo",
+  "owner": {
+    "name": "InsightfulPipe",
+    "url": "https://insightfulpipe.com"
+  },
+  "metadata": {
+    "description": "38 free Claude skills for SEO and Google Search Console: site audits, keyword research, cannibalization, striking-distance keywords, content briefs, content decay, internal links, schema and AI search visibility.",
+    "version": "2026.10.3107"
+  },
+  "plugins": [
+    {
+      "name": "insightfulpipe-seo",
+      "description": "38 free Claude skills for SEO and Google Search Console: site audits, keyword research, cannibalization, striking-distance keywords, content briefs, content decay, internal links, schema and AI search visibility.",
+      "source": "./"
+    }
+  ]
+}
